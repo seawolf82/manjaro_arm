@@ -25,3 +25,4 @@ dtparam=i2c_arm=on
 dtoverlay=argonone
 hysteresis=6
 dtparam=fantemp0=55
+
